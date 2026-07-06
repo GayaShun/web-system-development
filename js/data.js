@@ -1,0 +1,1 @@
+const MACHINE_DATA = {};
